@@ -6,7 +6,7 @@ bombas de 5 kilotones al azar. Inteligencia ha detectado mensajes entre estos ra
 TCP, y la brigada contra terrorismo BCT es forzada a buscar fuera de sus filas a alguien que pueda interpretar estos mensajes.
 
 Para nuestra suerte, en Previred trabajas tú, te dicen el Jhon Nash chileno, sufres un poco de esquizofrenia pero tu habilidad para resolver problemas y
-encontrar patrones hacen que el equilibro de Nash parezca el teorema de pitágoras. Unas horas después de revisar las trazas de 10 bytes te das cuenta de
+encontrar patrones hacen que el equilibro de Nash parezca el teorema de pitágoras. Una hora después de revisar las trazas de 10 bytes te das cuenta de
 como descifrarlo y te preparas para desarrollar un programa que lo haga de forma automática.
 
 ### Desafío:
@@ -22,6 +22,7 @@ Después de una hora analizando las trazas te das cuenta que son coordenadas y l
 cuando explotará la bomba en esa ubicación, el día de hoy, y tu técnica es como sigue:
 
 1- Pasar de Hexadecimal a Decimal
+
 2- Te das cuenta que los primeros 20 números con sistema décimal son coordenadas y los últimos 4 es la hora
 
 | Ejemplo de coordenadas  | Ejemplo de Hora Sistema 24 horas |                
