@@ -41,14 +41,16 @@ coordenadas como sigue:
 |----------------------------------|-----------------------------------|
 | -33.396738                       | -70.735081                        |
 
-Tu programa debe imprimir todas las coordenadas que estén dentro de Chile, discriminando las coordenadas
-que tengan la latitud o la longitud positiva, es decir, debes omitir aquellas, y la impresión es como sigue:
+Tu programa debe imprimir todas las coordenadas que estén dentro de Chile, es decir, debes discriminar las coordenadas
+que tengan la latitud o la longitud positiva, debes omitirlas. Por lo tanto, en el caso de que en todos los archivos
+leídos hayan solo 3 trazas válidas, sólo esas 3 imprimiremos de la siguiente manera:
 
-EJ: 
+| Ejemplo de salida              |                
+|--------------------------------|
+| -33.396738;-70.735081;21:00    |
+| -33.396738;-70.735081;13:00    |
+| -33.396738;-70.735081;12:00    |
 
--33.396738;-70.735081;21:00
--33.396738;-70.735081;13:00
--33.396738;-70.735081;12:00
 
 Importante: Debes leer todos los archivos de texto plano, mientras más leas más puntaje tendrás. Y el programa nunca
 debe caerse, si encuentra trazas que no son compatibles entonces debe omitirlas y continuar.
