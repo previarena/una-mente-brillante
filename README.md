@@ -53,8 +53,9 @@ leídos hayan solo 3 trazas válidas, sólo esas 3 imprimiremos de la siguiente 
 | -33.396738;-70.735081;12:00    |
 
 
-Importante: Debes leer todos los archivos de texto plano, mientras más leas más puntaje tendrás. Y el programa nunca
-debe caerse, si encuentra trazas que no son compatibles entonces debe omitirlas y continuar.
+Importante: Debes leer todos los archivos de texto plano que tienen por nombre messageX.txt, mientras más leas más puntaje tendrás. Y el programa nunca
+debe caerse, si encuentra trazas que no son compatibles entonces debe omitirlas y continuar. Finalmente, existe un archivo respuesta donde si lees todos
+los archivos deberías obtener un output en la consola idéntico.
 
 Motivación: Operaciones similares se utilizan para obtener información enviada de dispositivos electrónicos
 como GPS, sensores y alarmas, para finalmente ser visualizadas por sistemas de monitoreo.
